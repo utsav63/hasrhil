@@ -1,0 +1,108 @@
+.btn1
+{
+  position:relative;
+  left:57%;
+  top:19px;
+  height:27px;
+  width:70px;
+  border-radius:8px;
+  border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border: 1px solid black;
+    display: block;
+ 
+}
+
+
+.btn2
+{
+  position:relative;
+  left:78%;
+  bottom:10px;
+  border-radius:8px;
+  background-color:#640fe3;
+  border-style: none;
+  height:30px;
+  width:70px;
+  
+ 
+}
+
+.logo
+{
+  position:relative;
+  bottom:65px;
+color: transparent;
+background: linear-gradient(to left,violet,
+rgb(91, 32, 133), blue, green, #8b3dff,#8b3dff, rgb(7, 211, 234));
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+/* font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    font-family: "Playfair_Display variant2", Tofu;
+left:17px;
+font-size:30px;
+
+}
+
+nav{
+  background-color: black;
+  height:80px;
+  margin:-8px;
+  width:470px;
+  
+  
+}
+
+
+.heding
+{
+  position: relative;
+  left:90px;
+  top:30px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main{
+  background-color: rgb(43, 20, 70);
+  height:100vh;
+  margin:-25px;
+  margin-bottom:19px;
+  color:white;
+  font-size:15px;
+  width:490px;
+ 
+}
+
+.imgg
+{
+  position:relative;
+  left:89px;
+  top:40px;
+  border-image-width: 2px;
+}
+
+
+.submit
+{
+  position:relative;
+  top:80px;
+  left:100px;
+  height:40px;
+  width:300px;
+  font-size: large;
+  font-weight: 100;
+  color: rgb(255, 255, 255);
+  font-family:'Times New Roman', Times, serif;
+  background-color:#640fe3;
+  border:1 px solid black;
+  border-radius:8px;
+  border-style: none;
+}
+
+body
+{
+  overflow-x: hidden;
+ 
+}
